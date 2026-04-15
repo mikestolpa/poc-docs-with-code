@@ -1,0 +1,10 @@
+site_name: Solution Documentation (POC)
+theme:
+  name: material
+nav:
+  - Overview: index.md
+  - Business Overview: business-overview.md
+  - Architecture: architecture.md
+  - Solution Design: solution-design.md
+  - Out of Scope: out-of-scope.md
+  - Glossary: glossary.md
